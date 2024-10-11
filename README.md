@@ -19,14 +19,9 @@ I’m a student at Premier University of Chattogram, majoring in Computer Scienc
   <a href="https://www.facebook.com/Chotomiaaa" class="rounded-full mx-2">
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="Facebook Logo" width="46" height="46">
   </a>
-
+</t>
   <a href="https://www.linkedin.com/feed/">
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" class="rounded-full" alt="LinkedIn Logo" width="50" height="50">
-  </a>
-
-  <a href="https://hasan-masud.netlify.app/">
-    <img src="https://cdn-icons-png.flaticon.com/512/726/726005.png" alt="Portfolio Logo" class="rounded-xl" width="50" height="50">
-
 </div>
 
 ## Tools & Technology 🛠️
