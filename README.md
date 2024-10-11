@@ -16,11 +16,11 @@ I’m a student at Premier University of Chattogram, majoring in Computer Scienc
 
 ## Find Me 🌐
 <div class="gap-8 space-x-4">
-  <a href="https://www.facebook.com/Chotomiaaa" class="rounded-full mx-2">
+  <a href="https://www.facebook.com/Chotomiaaa" class="rounded-full mx-2" target="_blank">
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="Facebook Logo" width="46" height="46">
   </a>
 </t>
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" class="rounded-full" alt="LinkedIn Logo" width="50" height="50">
 </div>
 
