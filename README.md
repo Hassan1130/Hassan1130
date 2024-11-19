@@ -32,7 +32,7 @@ I’m a student at Premier University of Chattogram, majoring in Computer Scienc
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="C++" class="rounded-xl" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="Matlab" class="rounded-xl" width="60" height="60">
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/php.svg" alt="PHP" class="rounded-xl" width="60" height="60">
-<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/php.svg" alt="Dart" class="rounded-xl" width="60" height="60">
+<img src="https://e7.pngegg.com/pngimages/678/747/png-clipart-dart-logo-thumbnail-tech-companies.png" alt="Dart" class="rounded-xl" width="60" height="60">
 
 </div>
 
