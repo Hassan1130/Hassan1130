@@ -3,16 +3,18 @@
 I’m a student at Premier University of Chattogram, majoring in Computer Science and Engineering (CSE). 
 
 ### A little about me:
-- 🔭 I’m actively learning and exploring different fields in tech, currently focusing on Certified Ethical Hacking (CEH).
+- 🔭 I’m actively learning and exploring various fields in tech, with a current focus on Certified Ethical Hacking (CEH) and Cisco Certified Network Associate (CCNA).
 - 🌱 In my spare time, I like improving my knowledge in various programming areas.
-- 👯 I want to collaborate with Android app developers to work on exciting projects.
+- 👯 I'm interested in collaborating with Android app developers on exciting projects.
 - 💬 Feel free to ask me anything about:
   - Database Management Systems (DBMS)
   - Data Structures
   - Object-Oriented Programming (OOP)
+  - Certified Network Associate (CCNA)
   
 ### 📫 How to reach me:
 - **Email**: hassanmehedi347@gmail.com
+- **Mobile**: 01714311104
 
 ## Find Me 🌐
 <div class="gap-8 space-x-4">
@@ -54,4 +56,5 @@ I’m a student at Premier University of Chattogram, majoring in Computer Scienc
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" alt="Git" class="rounded-xl" width="60" height="60">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" class="rounded-xl" width="60" height="60">
   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/arduino.svg" alt="Arduino" class="rounded-xl" width="60" height="60">
-</div>
+ <img src="https://networkslearning.com/wp-content/uploads/2020/02/Screenshot-2020-02-15-at-15.54.25.png" alt="CPT" class="rounded-xl" width="60" height="60"> 
+ </div>
